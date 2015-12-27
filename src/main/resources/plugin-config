@@ -1,0 +1,3 @@
+name=PRINT MESSAGE PLUGIN
+clazz=com.epam.mentoring.plugin.PrintMessagePlugin
+description=(Prints input. Input -> your message.)
